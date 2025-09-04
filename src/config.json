@@ -1,0 +1,27 @@
+{
+  "name": "proto",
+  "supportEmail": "105159143@student.swin.edu.au",
+  "version": "0.0.1",
+  "items": [{
+    
+    "Navigation": {
+      "Name": "Custom Sidebar",
+      "Placement": "After Activity"
+    },
+    "url": "proto.html",
+    "category": "SustainabilityId",
+    "menuName": {
+      "en": "proto"
+    },
+    
+    "icon": "images/icon.svg"
+  }],
+  
+  
+  "dev": {
+    "root": "proto",
+    "dist": {
+      "host": "https://www.example.com/myaddin/"
+    }
+  }
+}
