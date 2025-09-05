@@ -1,0 +1,15 @@
+{
+  "name": "proto phone",
+  "supportEmail": "",
+  "version": "0.0.1",
+  "items": [
+    {
+      "url": "proto phone/protoPhone.html",
+      "category": "DriveAppLink/",
+      "menuName": {
+        "en": "proto phone"
+      },
+      "icon": "images/icon.svg"
+    }
+  ]
+}
